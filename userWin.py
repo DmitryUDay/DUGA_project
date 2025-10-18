@@ -1,0 +1,2 @@
+def wini(win):
+    pass
